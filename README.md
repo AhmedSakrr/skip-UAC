@@ -9,3 +9,8 @@ Did you ever want to skip those dialogues?
 
 If you answered yes to any of these questions, this is a program for you! UAC Skipper will skip User Account Control and you won't
 have to click the Yes button every few seconds.
+
+
+-----------------------------------------------
+
+Download UAC Skipper here: https://github.com/Wirus-deleted-my-username/skipUAC/releases
